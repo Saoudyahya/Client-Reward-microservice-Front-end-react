@@ -30,6 +30,7 @@ ___
 This template was used to build the front-end for a CRM microservice, integrating React with a microservices architecture powered by Spring Boot, Node.js, RabbitMQ, and WebSockets. Below is an architectural overview of the system:
 
 ![Copie de STAGE PRESENTATION](https://github.com/user-attachments/assets/853a2bf7-775e-439d-906c-1ad698a1bf19)
+![Copie de STAGE PRESENTATION (3)](https://github.com/user-attachments/assets/c0ba3630-858f-44bd-b368-5dd0a56e1181)
 
 
 ### [⬇️ Download Now](https://tailadmin.com/download)
